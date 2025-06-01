@@ -66,9 +66,3 @@
 * Nossa maquete foi baseada em uma usina nuclear comum, contendo a *fonte de água*, *torre de refrigeração*, *turbinas*, *condensador*, *bomba d'água*, *reator nuclear*, *usina nuclear*, *rede de distribuição elétrica* e *gerador*. 
 
 Vlw 🙂
-
-
-
-FODA :3
-
-
