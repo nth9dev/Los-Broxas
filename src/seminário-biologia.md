@@ -67,7 +67,7 @@
 
 <img src= "IMG_20250603_085607.jpg" alt="usina" style= "border-radius: 15px"/>
 
-<img src= "IMG_20250603_085607.jpg" alt="usina" style= "border-radius: 15px"/>
+<img src= "IMG_20250603_085620.jpg" alt="usina" style= "border-radius: 15px"/>
 
 <img src= "IMG_20250603_085607.jpg" alt="usina" style= "border-radius: 15px"/>
 
