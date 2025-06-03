@@ -69,19 +69,19 @@
 
 <img src= "IMG_20250603_085620.jpg" alt="usina" style= "border-radius: 15px"/>
 
-<img src= "IMG_20250603_085607.jpg" alt="usina" style= "border-radius: 15px"/>
+<img src= "IMG_20250603_085627.jpg" alt="usina" style= "border-radius: 15px"/>
 
-<img src= "IMG_20250603_085607.jpg" alt="usina" style= "border-radius: 15px"/>
+<img src= "IMG 20250603_085825.jpg" alt="usina" style= "border-radius: 15px"/>
 
-<img src= "IMG_20250603_085607.jpg" alt="usina" style= "border-radius: 15px"/>
+<img src= "IMG_20250603_085718.jpg" alt="usina" style= "border-radius: 15px"/>
 
-<img src= "IMG_20250603_085607.jpg" alt="usina" style= "border-radius: 15px"/>
+<img src= "IMG_20250603_085847.jpg" alt="usina" style= "border-radius: 15px"/>
 
-<img src= "IMG_20250603_085607.jpg" alt="usina" style= "border-radius: 15px"/>
+<img src= "IMG_20250603_085908.jpg" alt="usina" style= "border-radius: 15px"/>
 
-<img src= "IMG_20250603_085607.jpg" alt="usina" style= "border-radius: 15px"/>
+<img src= "IMG_20250603_085918.jpg" alt="usina" style= "border-radius: 15px"/>
 
-<img src= "IMG_20250603_085607.jpg" alt="usina" style= "border-radius: 15px"/>
+<img src= "IMG_20250603_085925.jpg" alt="usina" style= "border-radius: 15px"/>
 
 
 
