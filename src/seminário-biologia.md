@@ -63,6 +63,26 @@
 
 ### Blz, e a maquete hein
 
-* Nossa maquete foi baseada em uma usina nuclear comum, contendo a *fonte de água*, *torre de refrigeração*, *turbinas*, *condensador*, *bomba d'água*, *reator nuclear*, *usina nuclear*, *rede de distribuição elétrica* e *gerador*. 
+* Nossa maquete foi baseada em uma usina nuclear comum, contendo a *fonte de água*, *torre de refrigeração*, *turbinas*, *condensador*, *bomba d'água*, *reator nuclear*, *usina nuclear*, *rede de distribuição elétrica* e *gerador*.
+
+<img src= "IMG_20250603_085607.jpg" alt="usina" style= "border-radius: 15px"/>
+
+<img src= "IMG_20250603_085607.jpg" alt="usina" style= "border-radius: 15px"/>
+
+<img src= "IMG_20250603_085607.jpg" alt="usina" style= "border-radius: 15px"/>
+
+<img src= "IMG_20250603_085607.jpg" alt="usina" style= "border-radius: 15px"/>
+
+<img src= "IMG_20250603_085607.jpg" alt="usina" style= "border-radius: 15px"/>
+
+<img src= "IMG_20250603_085607.jpg" alt="usina" style= "border-radius: 15px"/>
+
+<img src= "IMG_20250603_085607.jpg" alt="usina" style= "border-radius: 15px"/>
+
+<img src= "IMG_20250603_085607.jpg" alt="usina" style= "border-radius: 15px"/>
+
+<img src= "IMG_20250603_085607.jpg" alt="usina" style= "border-radius: 15px"/>
+
+
 
 Vlw 🙂
