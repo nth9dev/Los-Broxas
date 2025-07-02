@@ -1,6 +1,6 @@
 # Los broxas 
 
-Roteiros dos meus projetos pessoais :3 
+Roteiros dos meus projetos pessoais
 
 # Links
 
