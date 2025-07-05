@@ -4,7 +4,7 @@
 
 * Fala, pessoal. Nós somos **David, Pietro e Vinícius** e iremos apresentar um seminário sobre a energia nuclear, uma fonte de energia não-renovável obtida a partir do Urânio.
 
-![usina-1](src/seminario-de-biologia-03/usina-nuclear.jpg)
+![usina-1](src\seminario-de-biologia-03/usina-nuclear.jpg)
 
 ### E o que é Energia Nuclear?
 
@@ -28,7 +28,7 @@
 
 * Possuem alta taxa de produtividade, porque um pequeno volume de matéria-prima é capaz de gerar um absurdo energia.
 
-<img src= "usina-nuclear-pennsylvania-estados-unidos-1.jpeg" alt="usina" style= "border-radius: 15px"/>
+![usina-2](src\seminario-de-biologia-03\usina-nuclear-pennsylvania-estados-unidos-1.jpeg)
 
 ### E as vantagens e riscos são...
 
@@ -57,32 +57,30 @@
 
 * No Brasil, os projetos para seu uso ganharam força nos governos militares, que tinham a intenção de trazer essa tecnologia pro país. A primeira usina termonuclear inaugurada no país foi a **Angra 1**. Fundada em 1985, essa usina é equipada com um reator norte-americano.
 
-<img src= "1e02ed978daa4ce291b016cae1337401-Angra_dos_Reis_-_usinas_nucleares.jpg" alt="usina" style= "border-radius: 15px"/>
-
+![usina-2](src\seminario-de-biologia-03\usina-nuclear-pennsylvania-estados-unidos-1.jpeg)
 * Em 2000, Angra 2 foi inaugurada, agora com um reator da Alemanha.
 
 ### Blz, e a maquete hein
 
 * Nossa maquete foi baseada em uma usina nuclear comum, contendo a *fonte de água*, *torre de refrigeração*, *turbinas*, *condensador*, *bomba d'água*, *reator nuclear*, *usina nuclear*, *rede de distribuição elétrica* e *gerador*.
 
-<img src= "IMG_20250603_085607.jpg" alt="usina" style= "border-radius: 15px"/>
+![usina-3](src\seminario-de-biologia-03\IMG_20250603_085607.jpg)
 
-<img src= "IMG_20250603_085620.jpg" alt="usina" style= "border-radius: 15px"/>
+![usina-4](src\seminario-de-biologia-03\IMG_20250603_085620.jpg)
 
-<img src= "IMG_20250603_085627.jpg" alt="usina" style= "border-radius: 15px"/>
+![usina-5](src\seminario-de-biologia-03\IMG_20250603_085627.jpg)
 
-<img src= "IMG 20250603_085825.jpg" alt="usina" style= "border-radius: 15px"/>
+![usina-6](src\seminario-de-biologia-03\IMG_20250603_085718.jpg)
 
-<img src= "IMG_20250603_085718.jpg" alt="usina" style= "border-radius: 15px"/>
+![usina-7](src\seminario-de-biologia-03\IMG_20250603_085825.jpg)
 
-<img src= "IMG_20250603_085847.jpg" alt="usina" style= "border-radius: 15px"/>
+![usina-8](src\seminario-de-biologia-03\IMG_20250603_085847.jpg)
 
-<img src= "IMG_20250603_085908.jpg" alt="usina" style= "border-radius: 15px"/>
+![usina-9](src\seminario-de-biologia-03\IMG_20250603_085908.jpg)
 
-<img src= "IMG_20250603_085918.jpg" alt="usina" style= "border-radius: 15px"/>
+![usina-10](src\seminario-de-biologia-03\IMG_20250603_085918.jpg)
 
-<img src= "IMG_20250603_085925.jpg" alt="usina" style= "border-radius: 15px"/>
-
+![usina-11](src\seminario-de-biologia-03\IMG_20250603_085925.jpg)
 
 
 Vlw 🙂
